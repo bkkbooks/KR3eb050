@@ -1,0 +1,1068 @@
+canonical_identifier: bkk:krp/KR3eb050/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eb050/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 望診遵經
+  identifiers:
+    krp: KR3eb050
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb050.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb050_000-jc.yaml, hash: 'sha256:a53f236915b52ea8a0c99e3ade602d3db57621ef80bd566d6bcfe4a9c332c3d6'}
+  - {seq: 1, filename: KR3eb050_001-jc.yaml, hash: 'sha256:27315aeeb2396e1c6a2058060198773344328bb2c4e16883fed2e6254276dcf3'}
+  - {seq: 3, filename: KR3eb050_003-jc.yaml, hash: 'sha256:87f0f573db3137564c708c05c7e15e1e36e689a88b7784c90cba4ad8ad4b25ba'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb050_000-jc.markers.yaml, hash: 'sha256:9015e36f18db858afa044607102148e16c47e697b44018bacc312631477b36c6'}
+  - {seq: 1, role: markers, filename: assets/KR3eb050_001-jc.markers.yaml, hash: 'sha256:ba1092e03a942a3eee45eae19d396cc7a1a8e925e140dd33a8b391ac3769f20f'}
+  - {seq: 3, role: markers, filename: assets/KR3eb050_003-jc.markers.yaml, hash: 'sha256:86ef4b9582c90a107c0a74d870dde3b3efd2d186c52706a445d6a8c930578c72'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb050_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 485
+  label: 敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 24064
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 534
+  label: 診法常以平旦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d3
+    span:
+    - body
+    - 534
+    - 764
+  label: 望色常宜定靜
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d4
+    span:
+    - body
+    - 764
+    - 1176
+  label: 明堂周身部位
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d5
+    span:
+    - body
+    - 1176
+    - 1663
+  label: 明堂六部提綱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d6
+    span:
+    - body
+    - 1663
+    - 2314
+  label: 面貌分應臟腑
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d7
+    span:
+    - body
+    - 2314
+    - 2873
+  label: 五官分應五臟
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d8
+    span:
+    - body
+    - 2873
+    - 3282
+  label: 五色分應五臟
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d9
+    span:
+    - body
+    - 3282
+    - 3719
+  label: 相氣十法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d10
+    span:
+    - body
+    - 3719
+    - 4093
+  label: 望法陰陽總綱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d11
+    span:
+    - body
+    - 4093
+    - 4683
+  label: 五色相應提綱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d12
+    span:
+    - body
+    - 4683
+    - 5364
+  label: 五色主病提綱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d13
+    span:
+    - body
+    - 5364
+    - 6512
+  label: 部色主病提綱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d14
+    span:
+    - body
+    - 6512
+    - 7296
+  label: 四時望法相參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d15
+    span:
+    - body
+    - 7296
+    - 7840
+  label: 四時氣色主病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d16
+    span:
+    - body
+    - 7840
+    - 8306
+  label: 晝夜陰晴相參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d17
+    span:
+    - body
+    - 8306
+    - 8808
+  label: 五方望法相參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d18
+    span:
+    - body
+    - 8808
+    - 9164
+  label: 氣質望法相參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d19
+    span:
+    - body
+    - 9164
+    - 9541
+  label: 老少望法相參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d20
+    span:
+    - body
+    - 9541
+    - 9826
+  label: 居養望法相參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d21
+    span:
+    - body
+    - 9826
+    - 10200
+  label: 變色望法相參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d22
+    span:
+    - body
+    - 10200
+    - 10543
+  label: 望色先知平人
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d23
+    span:
+    - body
+    - 10543
+    - 10918
+  label: 色以潤澤為本
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d24
+    span:
+    - body
+    - 10918
+    - 11168
+  label: 五色交錯合參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d25
+    span:
+    - body
+    - 11168
+    - 11476
+  label: 五色十法合參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d26
+    span:
+    - body
+    - 11476
+    - 11746
+  label: 五色六部合參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d27
+    span:
+    - body
+    - 11746
+    - 12182
+  label: 氣色部位合參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d28
+    span:
+    - body
+    - 12182
+    - 12510
+  label: 氣色門戶合參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d29
+    span:
+    - body
+    - 12510
+    - 12849
+  label: 色病宜忌合參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d30
+    span:
+    - body
+    - 12849
+    - 13371
+  label: 氣色聲音合參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d31
+    span:
+    - body
+    - 13371
+    - 13700
+  label: 氣色脈象合參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d32
+    span:
+    - body
+    - 13700
+    - 14386
+  label: 氣色病症合參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d33
+    span:
+    - body
+    - 14386
+    - 15096
+  label: 推廣望色大意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d34
+    span:
+    - body
+    - 15096
+    - 15382
+  label: 主病條目大意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d35
+    span:
+    - body
+    - 15382
+    - 16906
+  label: 青色主病條目
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d36
+    span:
+    - body
+    - 16906
+    - 18585
+  label: 赤色主病條目
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d37
+    span:
+    - body
+    - 18585
+    - 20300
+  label: 黃色主病條目
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d38
+    span:
+    - body
+    - 20300
+    - 21515
+  label: 白色主病條目
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d39
+    span:
+    - body
+    - 21515
+    - 23390
+  label: 黑色主病條目
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb050_jc_001-d3d40
+    span:
+    - body
+    - 23390
+    - 24064
+  label: 主病條目附識
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 38017
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 456
+  label: 目分臟腑部位
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d3
+    span:
+    - body
+    - 456
+    - 973
+  label: 眼目形容提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d4
+    span:
+    - body
+    - 973
+    - 1445
+  label: 眼目氣色提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d5
+    span:
+    - body
+    - 1445
+    - 1740
+  label: 瞼色望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d6
+    span:
+    - body
+    - 1740
+    - 2094
+  label: 面目望法相參
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d7
+    span:
+    - body
+    - 2094
+    - 3657
+  label: 眼目形容條目
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d8
+    span:
+    - body
+    - 3657
+    - 4769
+  label: 眼目氣色條目
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d9
+    span:
+    - body
+    - 4769
+    - 5506
+  label: 望舌診法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d10
+    span:
+    - body
+    - 5506
+    - 6840
+  label: 診舌形容條目
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d11
+    span:
+    - body
+    - 6840
+    - 7700
+  label: 診舌氣色條目
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d12
+    span:
+    - body
+    - 7700
+    - 8802
+  label: 診舌苔垢條目
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d13
+    span:
+    - body
+    - 8802
+    - 9587
+  label: 診舌津液條目
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d14
+    span:
+    - body
+    - 9587
+    - 10044
+  label: 診口形容提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d15
+    span:
+    - body
+    - 10044
+    - 11742
+  label: 診口形容條目
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d16
+    span:
+    - body
+    - 11742
+    - 12229
+  label: 診唇望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d17
+    span:
+    - body
+    - 12229
+    - 13079
+  label: 診唇形容條目
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d18
+    span:
+    - body
+    - 13079
+    - 13983
+  label: 診唇氣色條目
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d19
+    span:
+    - body
+    - 13983
+    - 14393
+  label: 四白望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d20
+    span:
+    - body
+    - 14393
+    - 14771
+  label: 牙齒望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d21
+    span:
+    - body
+    - 14771
+    - 15464
+  label: 牙齒望法條目
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d22
+    span:
+    - body
+    - 15464
+    - 15961
+  label: 診鼻望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d23
+    span:
+    - body
+    - 15961
+    - 16690
+  label: 診鼻形容條目
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d24
+    span:
+    - body
+    - 16690
+    - 17104
+  label: 診耳望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d25
+    span:
+    - body
+    - 17104
+    - 17365
+  label: 眼眉望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d26
+    span:
+    - body
+    - 17365
+    - 17766
+  label: 髭鬚望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d27
+    span:
+    - body
+    - 17766
+    - 18165
+  label: 發髲望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d28
+    span:
+    - body
+    - 18165
+    - 18517
+  label: 診頭望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d29
+    span:
+    - body
+    - 18517
+    - 19119
+  label: 面形分屬五臟
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d30
+    span:
+    - body
+    - 19119
+    - 19530
+  label: 面容分屬五臟
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d31
+    span:
+    - body
+    - 19530
+    - 20370
+  label: 診腹望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d32
+    span:
+    - body
+    - 20370
+    - 20879
+  label: 診背望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d33
+    span:
+    - body
+    - 20879
+    - 21498
+  label: 診手望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d34
+    span:
+    - body
+    - 21498
+    - 22108
+  label: 診足望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d35
+    span:
+    - body
+    - 22108
+    - 22583
+  label: 毫毛望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d36
+    span:
+    - body
+    - 22583
+    - 23282
+  label: 腠理望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d37
+    span:
+    - body
+    - 23282
+    - 23740
+  label: 尺膚望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d38
+    span:
+    - body
+    - 23740
+    - 24331
+  label: 診皮望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d39
+    span:
+    - body
+    - 24331
+    - 24963
+  label: 診肉望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d40
+    span:
+    - body
+    - 24963
+    - 25836
+  label: 絡脈望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d41
+    span:
+    - body
+    - 25836
+    - 26305
+  label: 絡脈主病提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d42
+    span:
+    - body
+    - 26305
+    - 26842
+  label: 診筋望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d43
+    span:
+    - body
+    - 26842
+    - 27498
+  label: 診骨望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d44
+    span:
+    - body
+    - 27498
+    - 27845
+  label: 爪甲望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d45
+    span:
+    - body
+    - 27845
+    - 28145
+  label: 診乳望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d46
+    span:
+    - body
+    - 28145
+    - 28540
+  label: 臍府望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d47
+    span:
+    - body
+    - 28540
+    - 28799
+  label: 腎囊望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d48
+    span:
+    - body
+    - 28799
+    - 29057
+  label: 陰莖望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d49
+    span:
+    - body
+    - 29057
+    - 29624
+  label: 診汗望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d50
+    span:
+    - body
+    - 29624
+    - 30432
+  label: 診血望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d51
+    span:
+    - body
+    - 30432
+    - 30853
+  label: 診痰望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d52
+    span:
+    - body
+    - 30853
+    - 31455
+  label: 大便望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d53
+    span:
+    - body
+    - 31455
+    - 31909
+  label: 診溺望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d54
+    span:
+    - body
+    - 31909
+    - 32515
+  label: 月經診法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d55
+    span:
+    - body
+    - 32515
+    - 34282
+  label: 形體周身部位
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d56
+    span:
+    - body
+    - 34282
+    - 34642
+  label: 身形望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d57
+    span:
+    - body
+    - 34642
+    - 35255
+  label: 身容望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d58
+    span:
+    - body
+    - 35255
+    - 35756
+  label: 形容望法大綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d59
+    span:
+    - body
+    - 35756
+    - 36174
+  label: 行止動靜提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d60
+    span:
+    - body
+    - 36174
+    - 36486
+  label: 診坐望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d61
+    span:
+    - body
+    - 36486
+    - 36934
+  label: 診臥望法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d62
+    span:
+    - body
+    - 36934
+    - 37288
+  label: 身容四法提綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb050_jc_003-d4d63
+    span:
+    - body
+    - 37288
+    - 38017
+  label: 意態望法提綱
+  type: section
+  level: 2
+hash: sha256:ea82d9ad255536df93c1f96c82fd35ad1b2416e4f1a5cff0b729d799b4f51588
