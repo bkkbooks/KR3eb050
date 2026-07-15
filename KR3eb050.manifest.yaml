@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eb050/v1
 canonical_location: https://kanripo.org/bkk/KR3eb050/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 望診遵經
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb050_000.yaml, hash: 'sha256:a53f236915b52ea8a0c99e3ade602d3db57621ef80bd566d6bcfe4a9c332c3d6'}
-  - {seq: 1, filename: KR3eb050_001.yaml, hash: 'sha256:27315aeeb2396e1c6a2058060198773344328bb2c4e16883fed2e6254276dcf3'}
-  - {seq: 3, filename: KR3eb050_003.yaml, hash: 'sha256:87f0f573db3137564c708c05c7e15e1e36e689a88b7784c90cba4ad8ad4b25ba'}
+  - {seq: 0, filename: KR3eb050_000.yaml, hash: 'sha256:6a07a95d4385a54d516de2f4005e01448d8aa09388e50bf372c587b0584918f7'}
+  - {seq: 1, filename: KR3eb050_001.yaml, hash: 'sha256:faece76ec5182368afceb973076e348c5afdf1f2bdbca3c927dbb41e8cbe8e10'}
+  - {seq: 3, filename: KR3eb050_003.yaml, hash: 'sha256:82f3a5263cae251c69986bf7423b16c9584ce4c177eec867947e06d070993314'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb050_000.markers.yaml, hash: 'sha256:965d4589eb5e6cebea68ca96c6ac6323ccb99ae4810343fe14dcdcc951378f8a'}
-  - {seq: 1, role: markers, filename: assets/KR3eb050_001.markers.yaml, hash: 'sha256:3430973c6fb504be0bc9651a3803d8161fd4507bd13891b330d011b526973e92'}
-  - {seq: 3, role: markers, filename: assets/KR3eb050_003.markers.yaml, hash: 'sha256:0b94987eee6eb39e1da3cceb12bf3ec9c4268104ccc04bb2d7f4b80da5218ec4'}
+  - {seq: 0, role: markers, filename: assets/KR3eb050_000.markers.yaml, hash: 'sha256:6552935ffc14a5eb76a666cb97ac8ddc6b588995f74f5bb5295af0100bb2ef7a'}
+  - {seq: 1, role: markers, filename: assets/KR3eb050_001.markers.yaml, hash: 'sha256:f9eda2ed65e77d4df2b5753d9b75a24bf2da71e6f996924cd495628e01e16061'}
+  - {seq: 3, role: markers, filename: assets/KR3eb050_003.markers.yaml, hash: 'sha256:b180f9090658ea1693c8ef8eae8d64471e8bb15f57e3f49662a8882939dea3c7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1065,4 +1065,7 @@ table_of_contents:
   label: 意態望法提綱
   type: section
   level: 2
-hash: sha256:e0e17b0e68cba256027ee14576a9ae5433452af44e2fed4618a10cc563e5b23b
+hash: sha256:97cdb61ebd59c448f6044417c4f03812dbd43e05e50e0c4ef7685d3e746c9b42
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
